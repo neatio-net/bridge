@@ -1,3 +1,5 @@
-A simplified blockchain bridge between Polygon and Neatio
+Bridge between Polygon and Neatio
 
-powered by ChainStack
+powered by ChainStack Labs
+
+Visit: chainstack.com
