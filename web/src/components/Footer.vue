@@ -45,17 +45,7 @@
       </div>
       <div class="mt-8 md:mt-0 md:order-1">
         <p class="text-center md:text-left text-base text-gray-400">
-          &copy; 2022 Created by A.Ufano for
-          <a class="hover:underline" href="https://chainstack.com"
-            >Chainstack</a
-          >
-        </p>
-        <p class="text-center md:text-left text-base text-gray-400">
-          Visit
-          <a class="hover:underline" href="https://chainstack.com"
-            >Chainstack.com</a
-          >
-        </p>
+          &copy; 2024 Neatio</p>
       </div>
     </div>
   </footer>
