@@ -5,14 +5,14 @@
     </h1>
 
     <p>
-      This bridge allows you to send ChainstackDollars (D-CHSD) from {{destinationNetwork}} back to {{originNetwork}}
+      This bridge allows you to send USDC from {{destinationNetwork}} back to {{originNetwork}}
     </p>
 
     <WalletConnect
       class="my-4"
       :targetNetwork="destinationNetwork"
       :targetNetworkId="destinationNetworkId"
-      :currency="ONE"
+      :currency="USDC"
       :decimals="4"
       :isNewNetwork="true"
     />
