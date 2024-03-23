@@ -11,7 +11,7 @@
           : 'bg-blue-100 text-blue-800 '
       "
       aria-current="page"
-      >Bridge to Destination Chain</router-link
+      >Bridge from Polygon to Neatio</router-link
     >
 
     <router-link
@@ -23,7 +23,7 @@
           : 'bg-teal-100 text-teal-800'
       "
       aria-current="page"
-      >Send token back to Original Chain</router-link
+      >Bridge from Neatio to Polygon</router-link
     >
   </div>
 </template>
