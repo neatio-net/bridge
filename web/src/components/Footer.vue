@@ -7,7 +7,7 @@
       <div class="flex justify-center space-x-6 md:order-2">
         <a
           target="_blank"
-          href="https://twitter.com/uf4no"
+          href="https://twitter.com/neatio_net"
           class="text-gray-400 hover:text-gray-500"
         >
           <span class="sr-only">Twitter</span>
@@ -25,7 +25,7 @@
 
         <a
           target="_blank"
-          href="https://github.com/chainstack"
+          href="https://github.com/neatio-net"
           class="text-gray-400 hover:text-gray-500"
         >
           <span class="sr-only">GitHub</span>
