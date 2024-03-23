@@ -5,7 +5,7 @@
     </h1>
 
     <p>
-      This bridge allows you to send ChainstackDollars (D-CHSD) from {{originNetwork}} to {{destinationNetwork}}
+      This bridge allows you to send USDC from {{originNetwork}} to {{destinationNetwork}}
     </p>
 
     <WalletConnect
