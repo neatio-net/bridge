@@ -16,12 +16,12 @@ const routes: Array<RouteRecordRaw> = [
   },
 
   // TODO: for 404 errors
-  {
-    path: '/:catchAll(.*)',
-    component: NotFoundComponent,
-    name: 'NotFound',
-  },
-]
+//   {
+//     path: '/:catchAll(.*)',
+//     component: NotFoundComponent,
+//     name: 'NotFound',
+//   },
+// ]
 
 const router = createRouter({
   history: createWebHistory(),
