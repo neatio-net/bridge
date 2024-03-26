@@ -45,7 +45,7 @@
       </div>
       <div class="mt-8 md:mt-0 md:order-1">
         <p class="text-center md:text-left text-base text-gray-400">
-          &copy; 2024 Neatio</p>
+          &copy; 2024 Neatio Blockchain</p>
       </div>
     </div>
   </footer>
