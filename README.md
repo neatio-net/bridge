@@ -1,5 +1,5 @@
-[beta]
-Bridge between Polygon and Neatio
+Bridge between Polygon and Neatio [beta]
+
 
 powered by ChainStack Labs
 
